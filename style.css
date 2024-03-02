@@ -1,7 +1,28 @@
-<style>
-<h3 style="color: SlateBlue;">Surprising Why You’re</h3>
-<p style=“color: SlateBlue;”>‎How Much Is Too Much? · ‎Check  · ‎Consider </p>
-<h3 style=“color: DodgerBlue;”>How Much
-Too Much?</h3>
-<h1 style=“color: DodgerBlue;”>Get It</h1>
-<style>
+<html>
+<head>
+    <title>Did You Get Gas?</title>
+    <style>
+        h3 {
+            color: SlateBlue;
+        }
+
+        p {
+            color: SlateBlue;
+        }
+
+        h3.dodgerBlue {
+            color: DodgerBlue;
+        }
+
+        h1.dodgerBlue {
+            color: DodgerBlue;
+        }
+    </style>
+</head>
+<body>
+    <h3>Surprising Why You’re</h3>
+    <p>‎How Much Is Too Much? · ‎Check  · ‎Consider</p>
+    <h3 class="dodgerBlue">How Much Too Much?</h3>
+    <h1 class="dodgerBlue">Get It</h1>
+</body>
+</html>
